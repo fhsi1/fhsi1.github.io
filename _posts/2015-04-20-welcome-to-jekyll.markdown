@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-20 08:43:59
 author: Yujean Cho
-categories: Jekyll
+categories: Test
 tags:	jekyll welcome
 cover:  "/assets/default_cover.jpeg"
 ---
