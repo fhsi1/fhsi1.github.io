@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to yucho's Dev Diary!"
-date:   2022-02-12 01:10:59
-author: Yujean Cho
-categories: Test
-tags:	test
-cover:  "/assets/default_cover.jpeg"
+title:  "Welcome to Jekyll!"
+date:   2015-04-18T14:25:52-05:00
+author: Ben Centra
+categories: Jekyll
+tags:	jekyll welcome
+cover:  "/assets/instacode.png"
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -53,10 +53,6 @@ demo("hello, world!", 10);
 
 Syntax highlighting is done using [highlight.js][highlight]. You can change the active theme in [head.html](https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15).
 
-### Blockquotes
-
-> "Blockquotes will be indented, italicized, and given a subdued light gray font. These are good for side comments not directly related to your content, or long quotations from external sources." - Some Smart Guy
-
 ### Images
 
 Lightbox has been enabled for images. To create the link that'll launch the lightbox, add <code>data-lightbox</code> and <code>data-title</code> attributes to an <code>&lt;a&gt;</code> tag around your <code>&lt;img&gt;</code> tag. The result is:
@@ -67,25 +63,6 @@ Lightbox has been enabled for images. To create the link that'll launch the ligh
 
 For more information, check out the [Lightbox][lightbox] website.
 
-### Tooltips
-
-With Tippy.js, you can add tooltips to your text with a little bit of HTML and JavaScript. First, create the tooltip trigger: `<span class="tooltip" id="someId">trigger</span>`. Then in a `<script>` tag at the bottom of your page, add some code to initialize the tooltip when the document is ready: `window.tooltips.push(['#someId', { content: "Content" }])`
-
-See the [Tippy.js docs](https://atomiks.github.io/tippyjs/) for additional configuration that you can provide for your tooltips.
-
-You can also use a Liquid `include` to import tooltip text or HTML from an external file: 
-
-```
-window.tooltips.push(['#someOtherId', { content: "{% raw %}{% include tooltips/example.html %}{% endraw %}" }])
-```
-
-To modify the styles for tooltip triggers, find the `.tooltip` class in `_layout.scss`.
-
-Here's an <span class="tooltip" id="someId">example tooltip</span>, and <span class="tooltip" id="someOtherId">here's another</span>.
-
-<br/>
-{% include page_divider.html %}
-
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
@@ -95,9 +72,3 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
-
-<script>
-window.tooltips = window.tooltips || []
-window.tooltips.push(['#someId', { content: "This is the text of the tooltip!" }])
-window.tooltips.push(['#someOtherId', { content: "{% include tooltips/example.html %}", placement: "right" }])
-</script>
