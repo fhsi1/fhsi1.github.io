@@ -59,6 +59,9 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+  
+  - cat: Yujean Cho
+    desc: "author"
 
 # Social icons and sharing options
 #
