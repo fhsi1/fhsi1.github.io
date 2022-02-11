@@ -4,6 +4,7 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
+  - jekyll-admin
 
 exclude:
   - "/vendor/"
@@ -199,3 +200,7 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
+
+jekyll_admin:
+    hidden_links:
+    homepage: ""
