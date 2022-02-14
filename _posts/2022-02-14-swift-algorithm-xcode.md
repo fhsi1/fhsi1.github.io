@@ -4,6 +4,7 @@ excerpt: "Xcode 환경 세팅"
 header:
   teaser: /assets/images/icon/swift.png
 toc: true
+toc_icon: "check-circle"
 toc_sticky: true
 
 categories:
