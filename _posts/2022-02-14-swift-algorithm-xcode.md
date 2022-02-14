@@ -1,6 +1,8 @@
 ---
 title:  "Swift로 문제풀기 기본 세팅"
 excerpt: "Xcode 환경 세팅"
+header:
+  teaser: /assets/images/icon/swift.png
 toc: true
 toc_sticky: true
 
