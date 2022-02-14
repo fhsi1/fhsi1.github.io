@@ -52,7 +52,7 @@ Command Line Tool 이 보인다. <br>
 
 ![Hello_World!](https://github.com/fhsi1/fhsi1.github.io/blob/master/assets/images/swfit-algorithm-xcode/Hello_World.png?raw=true)
 
-Xcode 창 오른쪽 상단의 ▶️ 버튼을 누르면 코드를 실행할 수 있다. <br>
+Xcode 창 왼쪽 상단의 ▶️ 버튼을 누르면 코드를 실행할 수 있다. <br>
 결과는 아래의 오른쪽 콘솔창으로 확인할 수 있다. <br>
 
 ## 기본 설정 완료 및 문제풀기
