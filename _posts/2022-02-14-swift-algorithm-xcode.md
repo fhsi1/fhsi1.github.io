@@ -11,7 +11,7 @@ categories:
   - Algorithm
 tags:
   - 백준
-  - swift
+  - Swift
 last_modified_at: 2022-02-14 17:27:21
 ---
 
