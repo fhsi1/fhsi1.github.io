@@ -12,7 +12,6 @@ categories:
 tags:
   - 백준
   - Swift
-  - I/O and arithmetic
 last_modified_at: 2022-02-16 17:00:57
 ---
 
