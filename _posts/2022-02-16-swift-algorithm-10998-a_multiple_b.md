@@ -3,7 +3,7 @@ title:  "[Swift] 10998 - A × B"
 excerpt: "곱셈 문제"
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 

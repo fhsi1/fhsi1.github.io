@@ -3,7 +3,7 @@ title:  "[Swift] 1001 - A - B"
 excerpt: "두 수를 입력받고 뺄셈을 한 결과를 출력하는 문제"
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 

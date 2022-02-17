@@ -3,7 +3,7 @@ title:  "[Swift] 10926 - ??!"
 excerpt: "입출력을 응용하는 문제"
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 

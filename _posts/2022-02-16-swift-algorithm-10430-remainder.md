@@ -3,7 +3,7 @@ title:  "[Swift] 10430 - 나머지"
 excerpt: "네 개의 계산식을 계산하는 문제"
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 

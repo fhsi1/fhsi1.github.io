@@ -3,7 +3,7 @@ title:  "[Swift] 2557 - Hello World!"
 excerpt: "Hello World!를 출력하시오."
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 

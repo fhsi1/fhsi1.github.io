@@ -3,7 +3,7 @@ title:  "[Swift] 10171 - 고양이"
 excerpt: "주어진 예제처럼 출력하는 문제"
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 

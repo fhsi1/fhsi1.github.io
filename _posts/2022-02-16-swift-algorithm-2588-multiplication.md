@@ -3,7 +3,7 @@ title:  "[Swift] 2588 - 곱셈"
 excerpt: "빈 칸에 들어갈 수는?"
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 

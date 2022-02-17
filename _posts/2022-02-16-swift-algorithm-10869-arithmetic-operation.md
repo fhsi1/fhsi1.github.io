@@ -3,7 +3,7 @@ title:  "[Swift] 10869 - 사칙연산"
 excerpt: "모든 연산 문제"
 header:
   teaser: /assets/images/icon/swift.png
-toc: true
+toc: false
 toc_icon: "check-circle"
 toc_sticky: true
 
