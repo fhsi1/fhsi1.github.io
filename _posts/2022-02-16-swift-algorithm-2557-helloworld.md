@@ -55,3 +55,6 @@ func print(_ items: Any..., separator: String = " ", terminator: String = "\n")
 
 `terminator` 인자에 `"\n"` 이 기본으로 할당되어 있어, <br>
 `terminator` 를 지정하지 않을 때 자동으로 개행이 포함된다. <br>
+
+> 📚 Reference <br>
+[print](https://developer.apple.com/documentation/swift/1541053-print)
