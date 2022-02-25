@@ -8,7 +8,7 @@ toc_icon: "check-circle"
 toc_sticky: true
 
 categories:
-  - Algorithm
+  - iOS
 tags:
   - Swift
 last_modified_at: 2022-02-25 18:20:21
