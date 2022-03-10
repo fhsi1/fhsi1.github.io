@@ -1,6 +1,6 @@
 ---
 title:  "readLine"
-excerpt: ""
+excerpt: "readLine(strippingNewline:)"
 header:
   teaser: /assets/images/icon/swift.png
 toc: true
