@@ -60,4 +60,4 @@ func split(separator: Character, maxSplits: Int =
 ---
 
 > 📚 Reference <br>
-[readLine](https://developer.apple.com/documentation/swift/1641199-readline/)
+[split](https://developer.apple.com/documentation/swift/string/2894564-split)
