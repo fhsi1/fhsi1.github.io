@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2022-08-17 14:29:26
 ---
 
-# 217. Contains Duplicate
+## 217. Contains Duplicate
 
 주어진 정수 배열 `nums` 에 같은 값이 두 번 이상 나타나면 `true` 를 반환하고 <br>
 모든 요소가 고유한 값이라면 `false` 를 반환하도록 작성하라.<br>
