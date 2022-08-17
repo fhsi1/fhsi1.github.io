@@ -35,7 +35,7 @@ Example 3:
 
 Constraints:
   1 <= nums.length <= 10^5
-  -109 <= nums[i] <= 10^9
+  -10^9 <= nums[i] <= 10^9
 ```
 
 ## Solution
