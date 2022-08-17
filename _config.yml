@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Yujean Cho"
-  avatar           : "/assets/images/github_fhsi1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/yujeanCho.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🌱 iOS Developer"
   location         : "South Korea"
   email            :
