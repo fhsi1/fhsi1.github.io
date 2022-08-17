@@ -1,5 +1,5 @@
 ---
-title:  "217. Contains Duplicate"
+title:  "Contains Duplicate"
 excerpt: "#Array #Hash Table #Sorting"
 header:
   teaser: /assets/images/icon/swift.png
